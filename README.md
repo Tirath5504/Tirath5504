@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my final project for cs50 and cs50p
+- 🔭 I’m currently working on my final project for cs50 and cs50p. UPDATE: Finished it.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on python projects with like minded individuals
 - 💬 Ask me about anything python and I am sure I can help you out!
