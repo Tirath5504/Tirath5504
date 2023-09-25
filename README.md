@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my final project for cs50p. UPDATE: Finished it: Link of final project: https://github.com/Tirath5504/stock_market
 - 🌱 I’m currently doing "The Odin Project".
 - 👯 I’m looking to collaborate on python projects with like minded individuals
-- 💬 Ask me about anything python and I am sure I can help you out!
+- 💬 I'm also trying to become competent in Machine Learning having successfully achieved a role of Machine Learning Intern at Synapse, DJSCE.
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/tirath-bhathawala-a58769159/)
   - :pencil2: [Mail](tirath.bhathawala@gmail.com)
