@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently working on the "The Odin Project".
-- 👯 I’m looking to collaborate on python projects with like minded individuals
-- 💬 I'm also trying to become competent in Machine Learning having successfully achieved a role of Machine Learning Intern at Synapse, DJSCE.
+- 🌱 I’m currently learning web development (The Odin Project).
+- 💬 I'm trying to become competent in Machine Learning, specifically GenAI.
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/tirath-bhathawala-a58769159/)
   - :pencil2: [Mail](tirath.bhathawala@gmail.com)
