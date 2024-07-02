@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Computer Vision and Deep Learning**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently writing two **Research Papers**
 
 - ☁️ I've keen interest in machine learning. So,I'm learning **OpenCV**
 
