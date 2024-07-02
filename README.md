@@ -30,8 +30,6 @@
 
 - 🌱 I’m currently writing two **Research Papers**
 
-- ☁️ I've keen interest in machine learning. So,I'm learning **OpenCV**
-
 - 📝 I regularly write articles on [Blogger](https://mlbeginnershandbook.blogspot.com/)
 
 - 📫 Feel free to reach me out **tirath.bhathawala@gmail.com**
