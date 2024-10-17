@@ -28,11 +28,11 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Computer Vision and Deep Learning**
 
-- 🌱 I’m currently writing two **Research Papers**
+- 🌱 I'm actively seeking **research collaborations**. Feel free to reach out if you have interesting projects in Deep Learning!
 
 - 📝 I regularly write articles on [Blogger](https://mlbeginnershandbook.blogspot.com/)
 
-- 📫 Feel free to reach me out **tirath.bhathawala@gmail.com**
+- 📫 Feel free to reach me out at **tirath.bhathawala@gmail.com**
 
 <!--Intro end-->
 
