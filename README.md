@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,27 +15,32 @@
        alt="snake" /></a>
 </div>
 
+## 🎯 **Current Focus**
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Fix the cause, not the symptom</h2></summary>
-  </ul>
-</div>
+```json
+{
+  "name": "Tirath Bhathawala",
+  "bio": "Turning coffee into code and research papers",
+  "location": "Mumbai, India",
+  "education": {
+    "degree": "B.Tech in Computer Engineering (Honors in Intelligent Computing)",
+    "institution": "SVKM’s Dwarkadas J. Sanghvi College of Engineering"
+  },
+  "current_roles": [
+    "ACM Student Chapter Research Head",
+    "SupervAIor.ai AI Intern",
+    "sktime Mentee"
+  ],
+  "research_interests": [
+    "Explainable AI",
+    "LLM Finetuning",
+    "Open Source ML Tools",
+    "AI Agents",
+  ],
+}
+```
 
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Computer Vision and Deep Learning**
-
-- 🌱 I'm actively seeking **research collaborations**. Feel free to reach out if you have interesting projects in Deep Learning!
-
-- 📝 I regularly write articles on [Blogger](https://mlbeginnershandbook.blogspot.com/)
-
-- 📫 Feel free to reach me out at **tirath.bhathawala@gmail.com**
-
-<!--Intro end-->
-
-
+## :godmode: **Contributions**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -69,22 +73,67 @@
 
 
 </p>        
+
+## 📈 **Activity Graph**
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirath5504&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 <!--- stats (end) -->
 
+## 👨🏻‍💻 **Technologies That I Know**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,mysql,nodejs,py,react,tailwind,ts,vscode,arduino,autocad,bootstrap,fastapi,flask,ai,opencv,pycharm,pytorch,sqlite,sklearn,selenium,tensorflow,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,mysql,nodejs,py,react,tailwind,ts,vscode,fastapi,flask,ai,opencv,pycharm,pytorch,sqlite,sklearn,selenium,tensorflow,ubuntu&perline=14" />
   </a>
 </p>
 
+
+## 🔬 **Featured Projects**
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Tirath5504/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tirath5504&repo=MumbaiHacks2024_LlamaMia&theme=tokyonight&hide_border=true" alt="Project 1" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Tirath5504/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IPD-Hate-Speech-Detection&repo=IPD-Hate-Speech-Detection&theme=tokyonight&hide_border=true" alt="Project 2" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Tirath5504/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tirath5504&repo=Nomework_latest&theme=tokyonight&hide_border=true" alt="Project 1" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Tirath5504/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tirath5504&repo=sktime&theme=tokyonight&hide_border=true" alt="Project 2" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+## 👂 **Listen with me**
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ei3hdbsa3a7n2ran7glp2svzau&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ei3hdbsa3a7n2ran7glp2svzau&redirect=true)
+
+</div>
+
+## 💡 **Random Dev Quote**
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -112,5 +161,5 @@
 </div>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" /> 
